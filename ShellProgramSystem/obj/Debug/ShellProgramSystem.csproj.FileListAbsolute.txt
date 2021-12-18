@@ -1,0 +1,16 @@
+D:\ПМИ\4_курс\Инструментальные средства  создания оболочек программных систем\ShellProgramSystem\ShellProgramSystem\bin\Debug\ShellProgramSystem.exe.config
+D:\ПМИ\4_курс\Инструментальные средства  создания оболочек программных систем\ShellProgramSystem\ShellProgramSystem\bin\Debug\ShellProgramSystem.exe
+D:\ПМИ\4_курс\Инструментальные средства  создания оболочек программных систем\ShellProgramSystem\ShellProgramSystem\bin\Debug\ShellProgramSystem.pdb
+D:\ПМИ\4_курс\Инструментальные средства  создания оболочек программных систем\ShellProgramSystem\ShellProgramSystem\obj\Debug\ShellProgramSystem.Forms.FormConsultation.resources
+D:\ПМИ\4_курс\Инструментальные средства  создания оболочек программных систем\ShellProgramSystem\ShellProgramSystem\obj\Debug\ShellProgramSystem.Forms.FormDomainEdit.resources
+D:\ПМИ\4_курс\Инструментальные средства  создания оболочек программных систем\ShellProgramSystem\ShellProgramSystem\obj\Debug\ShellProgramSystem.Forms.FormExplanation.resources
+D:\ПМИ\4_курс\Инструментальные средства  создания оболочек программных систем\ShellProgramSystem\ShellProgramSystem\obj\Debug\ShellProgramSystem.Forms.FormRuleEdit.resources
+D:\ПМИ\4_курс\Инструментальные средства  создания оболочек программных систем\ShellProgramSystem\ShellProgramSystem\obj\Debug\ShellProgramSystem.Forms.FormRuleFactEdit.resources
+D:\ПМИ\4_курс\Инструментальные средства  создания оболочек программных систем\ShellProgramSystem\ShellProgramSystem\obj\Debug\ShellProgramSystem.Forms.FormVariableEdit.resources
+D:\ПМИ\4_курс\Инструментальные средства  создания оболочек программных систем\ShellProgramSystem\ShellProgramSystem\obj\Debug\ShellProgramSystem.MainForm.resources
+D:\ПМИ\4_курс\Инструментальные средства  создания оболочек программных систем\ShellProgramSystem\ShellProgramSystem\obj\Debug\ShellProgramSystem.Properties.Resources.resources
+D:\ПМИ\4_курс\Инструментальные средства  создания оболочек программных систем\ShellProgramSystem\ShellProgramSystem\obj\Debug\ShellProgramSystem.csproj.GenerateResource.cache
+D:\ПМИ\4_курс\Инструментальные средства  создания оболочек программных систем\ShellProgramSystem\ShellProgramSystem\obj\Debug\ShellProgramSystem.csproj.CoreCompileInputs.cache
+D:\ПМИ\4_курс\Инструментальные средства  создания оболочек программных систем\ShellProgramSystem\ShellProgramSystem\obj\Debug\ShellProgramSystem.exe
+D:\ПМИ\4_курс\Инструментальные средства  создания оболочек программных систем\ShellProgramSystem\ShellProgramSystem\obj\Debug\ShellProgramSystem.pdb
+D:\ПМИ\4_курс\Инструментальные средства  создания оболочек программных систем\ShellProgramSystem\ShellProgramSystem\obj\Debug\ShellProgramSystem.csproj.AssemblyReference.cache
